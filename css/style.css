@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+.top-player,
+.latest-post {
+    background-color: white;
+}
+
+.card {
+    border-radius: 1.25rem !important;
+}
+
+.author {
+    color: rgb(204, 1, 103);
+}
